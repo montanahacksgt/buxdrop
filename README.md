@@ -1,0 +1,1 @@
+ignore the first 2 files at the top, the buxdrop.zip is the file it has both frontend and backend in there make your own flip site right now! has a working auth system and a working flip system, converts ur usd flip to an actual limited item.
